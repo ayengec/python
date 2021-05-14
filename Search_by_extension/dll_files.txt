@@ -1,0 +1,7 @@
+NppShell_06.dll
+SciLexer.dll
+nppPluginList.dll
+mimeTools.dll
+NppConverter.dll
+NppExport.dll
+libcurl.dll
