@@ -1,0 +1,40 @@
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=0
+Here is Function2 and pulled data=0
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=1
+Here is Function2 and pulled data=1
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=4
+Here is Function2 and pulled data=4
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=9
+Here is Function2 and pulled data=9
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=16
+Here is Function2 and pulled data=16
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=25
+Here is Function2 and pulled data=25
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=36
+Here is Function2 and pulled data=36
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=49
+Here is Function2 and pulled data=49
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=64
+Here is Function2 and pulled data=64
+Thread1 is created
+Thread2 is created
+Here is Function1 and pushed data=81
+Here is Function2 and pulled data=81
