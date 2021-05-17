@@ -1,3 +1,9 @@
+__author__ = "ayengec"
+__email__ =  "alicaneem@gmail.com"
+""" 
+This module explains tuples and lists data types in Python.
+"""
+
 def listsFunc():
     ##################### LISTS ############################
     myList = ["SV", 1905, "python", 10.58, "ayengec"]
