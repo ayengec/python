@@ -23,7 +23,7 @@ Importance of  threads
 ### To clone project
 Clone the repo
    ```sh
-   git clone https://github.com/ayengec/python-projects.git
+   git clone https://github.com/ayengec/python-tutorials.git
    ```
 <!-- ABOUT THE PROJECT -->
 ## Console output
